@@ -19,4 +19,4 @@ Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) i
 | [Third Room](https://thirdroom.io) | Yes | ? | No |
 | [Somnium Space](https://somniumspace.com) | Yes | Yes | Yes |
 | [Cryptovoxels](https://www.cryptovoxels.com) | No | Yes | Yes |
-
+| [Sandbox](https://www.sandbox.game) | No | Yes | Yes |
