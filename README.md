@@ -5,8 +5,8 @@ Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) i
 | Name | Description | WebXR Support | Multiplayer | Web3 Support | Custom Avatar Support | Avatar File Format |
 | -------- | -------- | -------- | ------------ | -------- | ---------- | ---------- |
 | [Mozilla Hubs](https://hubs.mozilla.com) | Meet, share and collaborate together in private 3D virtual spaces. | Yes | Yes | No |
-| [SpatialXR](https://spatial.io) | Join thousands of users hosting virtual galleries and events in beautiful artist-built spaces | Yes | Yes | ? |
-| [Sougenco](https://sougen.co) | A barrier-free metaverse for millions of users | ? | Yes | Yes |
+| [Spatial](https://spatial.io) | Join thousands of users hosting virtual galleries and events in beautiful artist-built spaces | Yes | Yes | Yes |
+| [Sougen](https://sougen.co) | A barrier-free metaverse for millions of users | ? | Yes | Yes |
 | [Frame](https://framevr.io) | FRAME is a 3D collaboration and creation tool | Yes | Yes | No |
 | [VRLand](https://vrland.io) | Interactive and configurable meta worlds, VR and AR ready | Yes | Yes | Yes |
 | [Muse](https://muse.place) | Build your world in minutes with our free tools | Yes | No | Yes |
