@@ -20,4 +20,7 @@ Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) i
 | [Somnium Space](https://somniumspace.com) | We are an open, social & persistent VR platform powered by blockchain | Yes | Yes | Yes |
 | [Cryptovoxels](https://www.cryptovoxels.com) | Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain | Yes | Yes | Yes |
 | [Sandbox](https://www.sandbox.game) | The Sandbox is a virtual gaming world where players can build, own, and monetize their gaming experiences | No | Yes | Yes |
+| [Styly](https://styly.cc/) | VR/AR/MR creative platform for artists | Yes | ? | No |
+| [Arium](https://arium.xyz) | Arium is bringing human connection to virtual exhibitions | ? | Yes | ? |
+| [tz1and](https://www.tz1and) | A Virtual World and NFT Marketplace | ? | Yes | Yes |
 
