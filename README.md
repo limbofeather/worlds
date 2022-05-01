@@ -1,6 +1,6 @@
 # list of worlds
 
-Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) if you have any concerns, or DM on Discord @limbofeather#0001.
+Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) if you have any concerns, or DM on Discord `limbofeather#0001`.
 
 | Name | Description | WebXR Support | Multiplayer | Web3 Support | Custom Avatar Support | Avatar File Format |
 | -------- | -------- | -------- | ------------ | -------- | ---------- | ---------- |
@@ -20,7 +20,7 @@ Please reach out on Twitter [@limbofeather](https://twitter.com/_limbofeather) i
 | [Somnium Space](https://somniumspace.com) | We are an open, social & persistent VR platform powered by blockchain | Yes | Yes | Yes |
 | [Cryptovoxels](https://www.cryptovoxels.com) | Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain | Yes | Yes | Yes |
 | [Sandbox](https://www.sandbox.game) | The Sandbox is a virtual gaming world where players can build, own, and monetize their gaming experiences | No | Yes | Yes |
-| [Styly](https://styly.cc/) | VR/AR/MR creative platform for artists | Yes | ? | No |
-| [Arium](https://arium.xyz) | Arium is bringing human connection to virtual exhibitions | ? | Yes | ? |
-| [tz1and](https://www.tz1and) | A Virtual World and NFT Marketplace | ? | Yes | Yes |
-
+| [Styly](https://styly.cc/) | VR/AR/MR creative platform for artists | Yes | Yes | No |
+| [Arium](https://arium.xyz) | Arium is bringing human connection to virtual exhibitions | Yes | Yes | Yes |
+| [tz1and](https://www.tz1and) | A Virtual World and NFT Marketplace | No | Yes | Yes |
+| [New Art City](https://newart.city/) | New Art City is a virtual gallery & exhibition toolkit for digital art | No | Yes | No |
